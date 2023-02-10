@@ -1,5 +1,5 @@
 
-#SPA application for maintaining a list of users and tracking their friendships. 
+# SPA application for maintaining a list of users and tracking their friendships. 
 # All data is stored on the client
 ## Link:  
 ----------------------------------------------------------------------------------
