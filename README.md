@@ -1,7 +1,7 @@
 
 # SPA application for maintaining a list of users and tracking their friendships. 
 # All data is stored on the client
-## Link:  
+## Link:  https://sergeyw1.github.io/custom-app/
 ----------------------------------------------------------------------------------
 ## The application uses the following functionality:
 ```
