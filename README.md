@@ -1,19 +1,19 @@
 
-# SPA application for maintaining a list of users and tracking their friendships. 
-# All data is stored on the client
-## Link:  https://sergeyw1.github.io/custom-app/
+# SPA-приложение для ведения списка пользователей и отслеживания их дружеских отношений.
+# Все данные хранятся на клиенте
+## Ссылка: https://sergeyw1.github.io/custom-app/
 ----------------------------------------------------------------------------------
-## The application uses the following functionality:
+## Приложение использует следующие функциональные возможности:
 ```
-- list with fields: last name, first name, patronymic, email and number of friends
-- possibility to add a new user
-- the ability to view information about an existing user
-- the ability to edit an existing user
-- possibility to delete an existing user
-- viewing and editing fields: last name, first name, patronymic, email
-- the ability to add a previously created user as a friend
-- the ability to remove a previously created user from friends
-- the ability to call a function that will display all cyclic connections of the current user
+- список с полями: фамилия, имя, отчество, адрес электронной почты и количество друзей
+- возможность добавить нового пользователя
+- возможность просмотра информации о существующем пользователе
+- возможность редактировать существующего пользователя
+- возможность удалить существующего пользователя
+- просмотр и редактирование полей: фамилия, имя, отчество, адрес электронной почты
+- возможность добавить ранее созданного пользователя в друзья
+- возможность удалить ранее созданного пользователя из списка друзей
+- возможность вызова функции, которая будет отображать все циклические подключения текущего пользователя
 ```
 -----------------------------------------------------------------------------------------------
 
